@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PAM Praktikum 6-11S20038</string>
+    <string name="welcome">Welcome</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="toast_message">I\'m studying mobile applications.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="countries">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+</resources>

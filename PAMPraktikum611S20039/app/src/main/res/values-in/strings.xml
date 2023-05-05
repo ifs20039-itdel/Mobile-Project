@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAM Praktikum 6 - 11S20039</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="show_toast">Menampilkan Toast</string>
+    <string name="toast_message">Saya sedang mempelajari aplikasi seluler</string>
+</resources>

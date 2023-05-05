@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "643884743586",
+    "firebase_url": "https://pam-praktikum-ce23b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pam-praktikum-ce23b",
+    "storage_bucket": "pam-praktikum-ce23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643884743586:android:dbd9534dbb1d61a01610fb",
+        "android_client_info": {
+          "package_name": "com.example.pamprak039"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643884743586-sea0pnt2umq48lvop89tj1l5cf6itvi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtzsDWcn77Uv_dyOiA2slXZW8TsDhSos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643884743586-sea0pnt2umq48lvop89tj1l5cf6itvi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643884743586:android:8d19f4b39677ec121610fb",
+        "android_client_info": {
+          "package_name": "com.example.pampraktikum10_11s20039"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643884743586-sea0pnt2umq48lvop89tj1l5cf6itvi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtzsDWcn77Uv_dyOiA2slXZW8TsDhSos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643884743586-sea0pnt2umq48lvop89tj1l5cf6itvi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643884743586:android:fc1abda3c87765941610fb",
+        "android_client_info": {
+          "package_name": "com.example.pampraktikum11_11s20039"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643884743586-fniph7ca7vrhqnm9bjk4skeu58cd20sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pampraktikum11_11s20039",
+            "certificate_hash": "89f576e7364f97197096fffb14deecbcd7fca051"
+          }
+        },
+        {
+          "client_id": "643884743586-sea0pnt2umq48lvop89tj1l5cf6itvi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtzsDWcn77Uv_dyOiA2slXZW8TsDhSos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643884743586-sea0pnt2umq48lvop89tj1l5cf6itvi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

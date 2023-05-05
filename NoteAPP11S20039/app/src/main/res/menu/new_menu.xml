@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miAddNote"
+        android:icon="@drawable/note_add_icon"
+        android:title="Add Note"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/miDeleteNote"
+        android:icon="@drawable/delete_icon"
+        android:title="Delete Note"
+        app:showAsAction="always"/>
+
+</menu>

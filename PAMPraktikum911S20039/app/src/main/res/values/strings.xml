@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PAM Praktikum 9 - 11S20039</string>
+    <string name="big_text">
+        Expandable picture pada notifikasi adalah
+        fitur yang memungkinkan pengguna untuk melihat gambar yang lebih
+        besar dan lebih rinci ketika mereka mengklik notifikasi di panel
+        notifikasi perangkat mereka. Gambar tersebut muncul dalam tampilan
+        ekspansi yang memungkinkan pengguna untuk melihat gambar dengan
+        lebih jelas, dan dapat memberikan konteks lebih lanjut tentang
+        notifikasi yang diterima. Fitur ini dapat berguna dalam situasi di
+        mana gambar adalah bagian penting dari notifikasi, seperti ketika
+        menerima notifikasi dari aplikasi media sosial yang berisi gambar
+        atau video. Fitur expandable picture pada notifikasi dapat
+        diimplementasikan dengan menggunakan API notifikasi yang disediakan
+        oleh sistem operasi android.
+    </string>
+</resources>

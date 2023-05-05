@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PAM Praktikum 5 - 11S20039</string>
+    <string-array name="asean">
+        <item>Indonesia</item>
+        <item>Singapura</item>
+        <item>Malaysia</item>
+        <item>Laos</item>
+        <item>Brunei Darussalam</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Kamboja</item>
+        <item>Vietnam</item>
+        <item>Myanmar</item>
+    </string-array>
+</resources>

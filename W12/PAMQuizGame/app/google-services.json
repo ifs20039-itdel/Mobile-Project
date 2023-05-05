@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037798924748",
+    "firebase_url": "https://pamquizgame-24eea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pamquizgame-24eea",
+    "storage_bucket": "pamquizgame-24eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037798924748:android:a03bed41444abecded3d69",
+        "android_client_info": {
+          "package_name": "com.example.pamquiz_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037798924748-4p02i6impquhreofkn6dhg4jpn972c30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pamquiz_game",
+            "certificate_hash": "89f576e7364f97197096fffb14deecbcd7fca051"
+          }
+        },
+        {
+          "client_id": "1037798924748-ifqu7usbrr393ufmqkmskj35neh7p3ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZagTDKsm3R2P_Zy8MK0K4uZfZ_URhVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037798924748-ifqu7usbrr393ufmqkmskj35neh7p3ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
